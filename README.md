@@ -26,8 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/cdg14/qr-code-component-solution](https://your-solution-url.com)
-- Live Site URL: [https://cdg14.github.io/qr-code-component-solution](https://your-live-site-url.com)
+- Solution URL: [https://github.com/cdg14/QR-code](https://your-solution-url.com)
+- Live Site URL: [https://cdg14.github.io/QR-code](https://your-live-site-url.com)
 
 ### Built with
 
